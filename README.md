@@ -2,3 +2,5 @@
 
 - Email: drata313@gmail.com
 - Blog: https://velog.io/@drata313
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongho5580&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
