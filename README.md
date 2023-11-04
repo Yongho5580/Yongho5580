@@ -11,6 +11,6 @@
 
 <div align="center">
   
-📩 Email: drata313@gmail.com   📗 Blog: https://velog.io/@drata313
+📩 Email: nyongho0303@gmail.com   
   
 </div>
